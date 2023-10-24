@@ -1,4 +1,4 @@
-# kbfrequency
-A simple python script for visualizing key-press frequencies
+# `kbfrequency.py`
+A simple python script for logging key presses and visualizing their frequency
 
 ![example](out.svg)
